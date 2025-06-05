@@ -23,3 +23,11 @@ The Data is stored at local storage
 It handles empty input values
 
 completed of 4/06/2025
+
+## PROJECT 3: QUIZ APP
+
+This project is a simple quiz app , where user answers the pre set questions 
+
+The score is justified at the end of the Quiz
+
+completed on 5/06/2025
