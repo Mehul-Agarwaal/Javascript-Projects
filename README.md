@@ -31,3 +31,11 @@ This project is a simple quiz app , where user answers the pre set questions
 The score is justified at the end of the Quiz
 
 completed on 5/06/2025
+
+## PROJECT 4: RANDOM PASSWORD GENERATOR
+
+This project helps user to generate a Random Strong Password of Length 12 chars
+
+The user can copy the password also
+
+completed on 6/06/2025
