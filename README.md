@@ -39,3 +39,13 @@ This project helps user to generate a Random Strong Password of Length 12 chars
 The user can copy the password also
 
 completed on 6/06/2025
+
+## PROJECT 5: NOTES TAKING APP
+
+This project helps user to take notes 
+
+The notes are saved on local storage so they wont get deleted on refreshing the page.
+
+Future improvement: Will try to avoid empty notes getting saved in the storage
+
+completed on 7/06/2025
