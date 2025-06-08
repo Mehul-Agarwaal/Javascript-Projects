@@ -49,3 +49,13 @@ The notes are saved on local storage so they wont get deleted on refreshing the 
 Future improvement: Will try to avoid empty notes getting saved in the storage
 
 completed on 7/06/2025
+
+## PROJECT 6: AGE CALCULATOR APP
+
+This project helps user to calculate his age.
+
+Implementing and understanding the date logic and method was interesting.
+
+Disabled the user to enter any date greater then present date.
+
+completed on 8/06/2025
