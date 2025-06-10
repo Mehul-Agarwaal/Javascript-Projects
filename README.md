@@ -59,3 +59,11 @@ Implementing and understanding the date logic and method was interesting.
 Disabled the user to enter any date greater then present date.
 
 completed on 8/06/2025
+
+## PROJECT 7:QUOTE GENERATOR
+
+This project helps user to generate a random quote through an api: https://api.quotable.io/random
+
+User can generate new random quotes with just a click of a button & post them on twitter using the tweet button
+
+completed on 10/06/2025
