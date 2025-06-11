@@ -67,3 +67,11 @@ This project helps user to generate a random quote through an api: https://api.q
 User can generate new random quotes with just a click of a button & post them on twitter using the tweet button
 
 completed on 10/06/2025
+
+## PROJECT 8: QR-CODE GENERATOR
+
+This project helps users to create QR-Codes for a given text and URL's
+
+Added a cool animation on the input field when no text is submitted by the user
+
+completed on 11/06/2025
